@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bartosz Fiet</h1>
 <img align="right" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="gif">
-- 🌱 I’m currently learning **Python, Django**
+
+- :construction_worker: I'm currently working on my Bachelor's thesis - Employee Management System using Django REST Framework and React :)
+
+- 🌱 I’m currently learning **Python, Django, Django REST Framework**
 
 - 📫 How to reach me **xbartoszf@gmail.com**
+
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

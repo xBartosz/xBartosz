@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bartosz Fiet</h1>
+<h1 align="center">👋 Hi, I'm Bartosz Fiet</h1>
 <img align="right" width="380" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="gif">
 
 - :construction_worker: I'm currently working on my Bachelor's thesis - Employee Management System using Django REST Framework and React :)

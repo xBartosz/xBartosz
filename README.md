@@ -3,7 +3,7 @@
 
 - :construction_worker: I'm currently working on my Engineering thesis (Private repo) - Employee Management System using Django REST Framework and React :)
 
-- 🌱 I’m currently learning **Python, Django, Django REST Framework**
+- 🌱 I’m currently learning **Python, Django, Django REST Framework, JavaScript, React**
 
 - 📫 How to reach me **xbartoszf@gmail.com**
 
